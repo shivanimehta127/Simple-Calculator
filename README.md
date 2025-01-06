@@ -1,4 +1,5 @@
 Project Description: Simple Calculator
+
 This Python project implements a basic calculator with several mathematical functions. It is designed for simplicity and educational purposes, providing functionality for various arithmetic operations and more advanced calculations. The implementation uses Python functions to encapsulate different mathematical operations.
 
 Key Features:
